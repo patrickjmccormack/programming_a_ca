@@ -1,0 +1,5 @@
+StaffID	Surname	First Name	PPSN	Standard Hours	Hourly Rate	Overtime Rate	Tax Credit	Standard Tax Band
+1001	McCormack	James	1234567AL	37	20	30	80	20%
+1002	Farrell	Chris	2456789BU	37	22	30	80	20%
+1003	Smith	Ian	9875463WQ	37	19	30	80	20%
+1004	Jones	Damien	5463287IH	37	23	30	80	20%
